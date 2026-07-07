@@ -2,7 +2,12 @@
 
 two
 
+<<<<<<< HEAD
+
+lalalalla
+=======
 Amdka
 
 
 hâhhaahaax
+>>>>>>> staging
