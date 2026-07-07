@@ -1,4 +1,13 @@
+1234
+
 two
 
+<<<<<<< HEAD
 
 lalalalla
+=======
+Amdka
+
+
+hâhhaahaax
+>>>>>>> staging
